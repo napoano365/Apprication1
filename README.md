@@ -1,5 +1,6 @@
 # README
 
+この開発環境に機能を追加開発していきます。
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
